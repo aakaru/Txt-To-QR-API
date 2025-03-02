@@ -44,10 +44,10 @@ This API uses the following dependencies:
 
     github.com/skip2/go-qrcode: A Go package for generating QR codes.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Ensure that you follow the existing code style and maintain appropriate documentation.
 
-License
+## License
 
 This project is licensed under the MIT License.
